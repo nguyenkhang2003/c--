@@ -1,0 +1,8 @@
+C:\Users\Asus Pro\source\repos\bai3-2\bin\Debug\bai3-2.exe.config
+C:\Users\Asus Pro\source\repos\bai3-2\bin\Debug\bai3-2.exe
+C:\Users\Asus Pro\source\repos\bai3-2\bin\Debug\bai3-2.pdb
+C:\Users\Asus Pro\source\repos\bai3-2\obj\Debug\bai3-2.csproj.AssemblyReference.cache
+C:\Users\Asus Pro\source\repos\bai3-2\obj\Debug\bai3-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus Pro\source\repos\bai3-2\obj\Debug\bai3-2.csproj.CoreCompileInputs.cache
+C:\Users\Asus Pro\source\repos\bai3-2\obj\Debug\bai3-2.exe
+C:\Users\Asus Pro\source\repos\bai3-2\obj\Debug\bai3-2.pdb
